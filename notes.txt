@@ -1,0 +1,10 @@
+Seqrdoc
+
+test.seqrdoc.com/admin/login
+admin
+seqr@test
+
+Seqrloyalty
+https://seqrloyalty.com/demo/distributorsreport/viewSingleCouponReport
+scube
+admin
